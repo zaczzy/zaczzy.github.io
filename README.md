@@ -2,7 +2,7 @@
 
 ### I'm Zach. Nice to meet you.
 [If you want to see my Resume](https://drive.google.com/file/d/1MitwAobv6OKL9T2PmZlmldUreXOQ35vA/view?usp=sharing)
-
+[If you want to see my LinkedIn profile and maybe say hi](https://www.linkedin.com/in/zzzhao/)
 ### Confession
 #### Why my graduate GPA is only <sub><sup>3.2</sup></sub> when I was <sub><sup>magna cum laude</sup></sub> as an undergrad?
 <sub><sup>This is really a false argument, I didn't do well, or as well as I hoped to do, as an undergrad. I wished to be a machine learning engineer. That didn't work out.
