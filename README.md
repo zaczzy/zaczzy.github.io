@@ -1,6 +1,9 @@
 # zaczzy.github.io
 
+### I'm Zach. Nice to meet you.
+[If you want to see my Resume](https://drive.google.com/file/d/1MitwAobv6OKL9T2PmZlmldUreXOQ35vA/view?usp=sharing)
 
+### Confession
 #### Why my graduate GPA is only <sub><sup>3.2</sup></sub> when I was <sub><sup>magna cum laude</sup></sub> as an undergrad?
 <sub><sup>This is really a false argument, I didn't do well, or as well as I hoped to do, as an undergrad. I wished to be a machine learning engineer. That didn't work out.
 I had many disillusioning moments in college. Life can be a paradox. I realized that my preconceived career in machine learning aren’t the best for me. I found my interest in linux through painstakingly installing systems at my first job. 
