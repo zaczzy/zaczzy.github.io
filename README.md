@@ -39,12 +39,40 @@ Please don't let the major NETS confuse you. It just means CS(+?) in my case.
 
 ## Projects
 ### Internship projects
+**Starboard Ventures Database**
+I constructed and maintained a virtual machine running several Docker containers on AWS/GCP/Azure cloud to store on-chain metrics collected by a [Lotus](https://spec.filecoin.io/), the Filecoin implementation.
+The work is on-going and currently I am experimenting with GCP container-optimized OS running Lotus, Visor, TimescaleDB and Grafana. In the future, we may migrate to AWS for long-term service.
+My current work is studying the Filecoin implemenation to make changes to [Visor](https://github.com/filecoin-project/sentinel-visor) (Implemented in Go), which capture additional metrics; the most important work is query optimization and overall management of the database server running Docker. I architect the infrastructure for server as well as investigate the performance of timescaledb and visor to ensure the most up-to-date information is gathered. (The challenge is every 30 seconds an epoch is updated, and data grows at 27GB per day.)
+My additional duties include product feature development and DevOps support for Starboard's miner profitability predictor (Angular + Express). CI/CD with Jenkins.
+
+**Infervision RCNN CV Product**
+My primary duty is develop internal tools for better image segmentation task on their faster-RCNN product. I augmented their X-ray&CT scan DICOM datasets, implemented transformation matrices for their volume data, and developed a basic interactive teaser website for an event. 
+Additionally, I set up Ubuntu workstations for new employees and helped provide manual labels for image segmentation.
 
 ### Research projects
-
-
+**DeDOS testing and debugging for Deterlab**
+For one year, I was a research assistant at the Distributed Systems Lab @UPenn. I helped Isaac, a full-time programmer, researcher, and graduate student and Henri (Max), a PhD student at the time to debug and present their work on the [DeDOS project](https://dedos.cis.upenn.edu/) ([Paper hosted by Prof. Linh T. X. Phan](cis.upenn.edu/~linhphan/papers/acsac18-dedos.pdf)) to Deterlabs to see if the system indeed delivers on its promise.
+Due to the limitations of my time and technical expertise, I primarily focused on understanding the source code and one application written on top of the DeDOS infrastructure, the HTTP web server. I studied how the web server is divided into units of execution named Minimum Splitable Units and how the DeDOS system replicate and allocate these MSUs across thread workers on different machines.
+In the meantime, I helped to debug a few minor functional bugs and primarily helped gathering experiment materials to present to representives from [Deterlab, ISI](https://www.isi.deterlab.net/index.php3), who is tasked to examine the performance claims made by the paper. 
 ### Course projects
+In order of decreasing time and complexity, I will list the largest projects I have completed @UPenn here:
 
+1. "Penn Drive": an application that aims to help use learn some core aspects of a distributed system: parallelism, primary replication with remote writes, sequential constistency, fault recovery via snapshot replay. As part of a 4 student team, I developed the multi-threaded test client, the admin server, the frontend server and the communication protocol and API with Michal. I helped with the "Google Big Table" key-value store implementation and the primary replication with remote write implementation, but my teammates are mainly responsible for that.
+The end application supports: 
+    1. SMTP email service (CRUD)
+    2. Cloud storage: files (CRUD)
+    3. An admin console to see node health and store state
+
+2. "Penn Google Search": an application written using Penn's proprietary "Apache Storm Lite" Java framework to crawl, index and store more than 1 million pages from certain start URLs. The challenge of this project is to implement an efficient scraper/indexer that can finish processing 1M pages in one day. The architecture is React frontend, Nginx backend with Postgres connection to RDS database for metadata and S3 buckets for page data. Apache storm lite is used to implement the crawler and indexer, the Hadoop / Apache Spark are both used (tried two implementations) for PageRank, which is stored in DynamoDB. As part of 4 student team, I primarily implemented PageRank with Scala on Apache Spark, but also helped with the indexer and engine implementation in various module implemenations.
+3. "Penn Twitter": a MERN web application aimed to teach agile development and practices in the tech industry. The website supports social media features (following, posting, commenting), media upload, chatting, and streaming (w/ basic stream chat) with Twilio streaming framework support. The challenge is to be familiar with best testing and continuous integration practices using Travis CI, Jest, Selenium and keeping the code average at above 80%. (In real world, it must be 100%, I understand.) As part of 3 student team, I developed about 45% of the project and helped other students with better Git practices and design of our app. From writing the user stories, design and prototyping with Figma, database design on MongoDB Atlas, API design w/ Swagger, development, integration and testing, the entire project took 10 one-week sprints over the semester.
+4. "Penn UNIX kernel": a C application that simulates the Kernel scheduler by premptive scheduling user threads wth user contexts; it also simulates a file system handler available to the Kernel with a module that treats a file as a filesystem, and stores files in flatFAT format. As part of a 4 student team, I primarily worked on the flatFAT filesystem and the shell, which is used to interact with the program. As extra credit I implemented a directory system that use the same mechanism on directorys as on files, same as the i-nodes design in Linux. The challenge of this project is writing low-level C code for the first time and understanding important system calls.
+5. "Database open-ended project: movie recommendation system"
+6. "Machine Learning project: twitter posts sentiment analysis"
+7. "Penn Facebook": 
+8. "Graphics project: mini-minecraft"
+9. "Security assignments: various attacks on unsecure web targets"
+10. "Blog website with Latex support": JS
+11. "Restaurant management system": Ruby on Rails
 
 ## Confessions
 ### Why is my graduate GPA only <sub><sup>3.2</sup></sub> when I graduated <sub><sup>magna cum laude</sup></sub> as an undergrad?
@@ -60,7 +88,7 @@ Turns out, overactive thyroid leads to depression and short-tempers. Maybe I was
 All of this inflictions are caused by my immune system, which is going bananas in my body, attacking my skin and glands.  But with treatments, exercise and a hopeful attitude, I don’t think anything can stop me. Everyone has their struggles, I believe. Mine is nothing special. But I believe that mine lead to my personal growth.
 So yeah, that's why my graduate GPA is what it is. I don't know what this story is trying to tell.</sup></sub>
 
-TL,DR: I had an unfortunate, regretable, devastating D grade, in computer security when my life was at its worst. But I believe it did't change who I am.
+TL,DR: I had an unfortunate, regretable, devastating D grade, in computer security when my life was at its worst. But I believe it didn't change who I am.
 
 ### My inspirations
 1. My dearest friends and family. Isaac, my friend and mentor from DSL. Prof. Boon Thau Loo. My friends from grace covenant church. And all people that showed incredible kindness in my life.
