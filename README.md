@@ -37,6 +37,15 @@ Please don't let the major NETS confuse you. It just means CS(+?) in my case.
 - [NETS program requirement](https://www.nets.upenn.edu/long/nets-curriculum)
 - My transcipt trackrecord aligns well with both programs.
 
+## Projects
+### Internship projects
+
+### Research projects
+
+
+### Course projects
+
+
 ## Confessions
 ### Why is my graduate GPA only <sub><sup>3.2</sup></sub> when I graduated <sub><sup>magna cum laude</sup></sub> as an undergrad?
 <sub><sup>This is really a false argument, I didn't do well, or as well as I hoped to do, as an undergrad. At the beginning I wished to be a machine learning engineer but it didn't work out.
