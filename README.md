@@ -75,8 +75,8 @@ The end application supports:
 11. "Restaurant management system": Ruby on Rails
 
 ## Confessions
-### Why is my graduate GPA only <sub><sup>3.2</sup></sub> when I graduated <sub><sup>magna cum laude</sup></sub> as an undergrad?
-<sub><sup>This is really a false argument, I didn't do well, or as well as I hoped to do, as an undergrad. At the beginning I wished to be a machine learning engineer but it didn't work out.
+### Why is your graduate GPA only around <sub><sup>3.4</sup></sub> when you graduate? You had 3.66 undergrad GPA and graduated <sub><sup>magna cum laude</sup></sub>.
+<sub><sup>
 I had many disillusioning moments in college. Life can be a paradox. I realized that my preconceived career in machine learning aren’t the best for me. I found my interest in linux through painstakingly installing systems at my first job. 
 I had to face my lack of personal drive, reconcile my relationship with my family far far away, and accept my hard-earned victories are indeed mine. Fight the imposter’s syndrome. I deserve to be among these amazing people, for I can do amazing work too.
 But the most severe challenging was then. March 2020, first month of Covid-19, I felt, almost for no reason, depressed. I had severe hyperthyroidism back then and I didn’t seek treatment. My hands were shaking horribly, I lost around 26 pounds in a month. Went from the peak of my weight to the all-time low since high school.
@@ -88,7 +88,7 @@ Turns out, overactive thyroid leads to depression and short-tempers. Maybe I was
 All of this inflictions are caused by my immune system, which is going bananas in my body, attacking my skin and glands.  But with treatments, exercise and a hopeful attitude, I don’t think anything can stop me. Everyone has their struggles, I believe. Mine is nothing special. But I believe that mine lead to my personal growth.
 So yeah, that's why my graduate GPA is what it is. I don't know what this story is trying to tell.</sup></sub>
 
-TL,DR: I had an unfortunate, regretable, devastating D grade, in computer security when my life was at its worst. But I believe it didn't change who I am.
+TL,DR: I had an unfortunate, regretable, devastating D grade when my physical health (and as a result, mental health) was at the worst. But I believe I have fully recovered, and learned how to cope with challenges well. My bad grade didn't change who I am. My past struggles only made me stronger. I hope I can show you what I mean.
 
 ### My inspirations
 1. My dearest friends and family. Isaac, my friend and mentor from DSL. Prof. Boon Thau Loo. My friends from grace covenant church. And all people that showed incredible kindness in my life.
