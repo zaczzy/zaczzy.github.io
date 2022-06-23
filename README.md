@@ -74,25 +74,10 @@ The end application supports:
 10. "Blog website with Latex support": JS
 11. "Restaurant management system": Ruby on Rails
 
-## Confessions
-### Why is your graduate GPA only around <sub><sup>3.4</sup></sub> when you graduate? You had 3.66 undergrad GPA and graduated <sub><sup>magna cum laude</sup></sub>.
-<sub><sup>
-I had many disillusioning moments in college. Life can be a paradox. I realized that my preconceived career in machine learning aren’t the best for me. I found my interest in linux through painstakingly installing systems at my first job. 
-I had to face my lack of personal drive, reconcile my relationship with my family far far away, and accept my hard-earned victories are indeed mine. Fight the imposter’s syndrome. I deserve to be among these amazing people, for I can do amazing work too.
-But the most severe challenging was then. March 2020, first month of Covid-19, I felt, almost for no reason, depressed. I had severe hyperthyroidism back then and I didn’t seek treatment. My hands were shaking horribly, I lost around 26 pounds in a month. Went from the peak of my weight to the all-time low since high school.
-Like MJ, Winnie Harlow, I had vitiligo. It was the onset stage and my skin was losing pigments. I had disillusioning moments, I’m not good at Security games and Cryptography. I never felt a stronger lack of drive everyday. At the end of semester, I had a D in Security. 
-If you don’t have a drive to live, you don’t mind death. But I don’t think that’s how I really felt. I tried religion, made new friends who are also reaching out to divinity for curing their real depression. I was certain then I’m not really depressed. I tried therapy, talking to a listening, caring person helped. 
-My girlfriend moved in with me. Slowly but surely, I have finally gotten over the worse period of my young adult life. 
-I got treated for hyperthyroidism in May 2021, after I regained confidence. Confidence that was rebuilt slowly by having a job I’m passionate about, exercise, losing weight and having hope. I was a coincidence that they discovered my hyperthyroidism, I was treated for a lump under my skin. 
-Turns out, overactive thyroid leads to depression and short-tempers. Maybe I wasn’t who I thought I was. Ha, who knew! 
-All of this inflictions are caused by my immune system, which is going bananas in my body, attacking my skin and glands.  But with treatments, exercise and a hopeful attitude, I don’t think anything can stop me. Everyone has their struggles, I believe. Mine is nothing special. But I believe that mine lead to my personal growth.
-So yeah, that's why my graduate GPA is what it is. I don't know what this story is trying to tell.</sup></sub>
-
-TL,DR: I had an unfortunate, regretable, devastating D grade when my physical health (and as a result, mental health) was at the worst. But I believe I have fully recovered, and learned how to cope with challenges well. My bad grade didn't change who I am. My past struggles only made me stronger. I hope I can show you what I mean.
 
 ### My inspirations
-1. My dearest friends and family. Isaac, my friend and mentor from DSL. Prof. Boon Thau Loo. My friends from grace covenant church. And all people that showed incredible kindness in my life.
-2. Robert Martin (Uncle bob) on clean code: [Youtube](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu)
-3. Our intro to algorithms (CIS 160/121) professor, our shepard, counselor to our Freshman sweat and tears. Prof. Rajiv Ghandhi's speech: [TED](https://www.youtube.com/watch?v=Kao_IZUCKgg). I still remember the day that he gave the speech on last day of CIS 160, I remember that we are not special, but we pride ourselves on what we've built.
-4. Book by our wise and lovely professor, Prof Jean Galier. [Linear Algebra and Optimization with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)
-5. The brilliant inspirers that are [Prof. Steve Zdancewic](https://www.cis.upenn.edu/~stevez/) and [Prof. Stephanie Weirch](https://www.cis.upenn.edu/~sweirich/). ([Article](https://csweb.rice.edu/news/stephanie-weirich-passion-programming-languages)). Functional programming. Ocaml. I loved the wisdoms embedded in programming languages and I shall perfect my craft with the best programming practice. For my final semester, I will take advanced programming, learn Haskell and functional programming to the best of my capabilities.
+- Isaac, my friend and mentor from DSL. Prof. Boon Thau Loo. My friends from grace covenant church. Friends who showed incredible kindness.
+- Robert Martin (Uncle bob) on clean code: [Youtube](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu)
+- Our intro to algorithms (CIS 160/121) professor, Prof. Rajiv Ghandhi. From his challenging academic curriculum, rigorous discouse, to his [inspiring speech](https://www.youtube.com/watch?v=Kao_IZUCKgg), Prof. Ghandhi laid the solid foundation of algorithms of me and my peer compputer scientists.
+- Book by our wise and lovely professor, Prof Jean Galier. [Linear Algebra and Optimization with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)
+- The brilliant inspirers that are [Prof. Steve Zdancewic](https://www.cis.upenn.edu/~stevez/) and [Prof. Stephanie Weirch](https://www.cis.upenn.edu/~sweirich/). ([Article](https://csweb.rice.edu/news/stephanie-weirich-passion-programming-languages)). Functional programming. Ocaml. I loved the wisdoms embedded in programming languages and I shall perfect my craft with the best programming practice. For my final semester, I will take advanced programming, learn Haskell and functional programming to the best of my capabilities.
